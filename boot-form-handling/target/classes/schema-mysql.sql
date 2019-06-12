@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS employee1000;
+
+CREATE TABLE employee1000 (
+  empId VARCHAR(10) NOT NULL,
+  empName VARCHAR(100) NOT NULL
+);
